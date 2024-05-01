@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #f8f9fa; 
+    border-bottom: 1px solid #dee2e6; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .container {
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+  }
+  
+  .nav-link {
+    color: #6c757d; 
+    font-weight: bold;
+    text-transform: uppercase; 
+    transition: color 0.3s ease; 
+  }
+  
+  .nav-link:hover {
+    color: #343a40; 
+  }
+  
+  .btn {
+    background-color: #289d1b; 
+    border-color: #dc3545; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+    padding: 15;
+    width: 100px;
+    padding-top: 10px;
+    margin-top: 20 px;
+    transition: background-color 0.3s ease, border-color 0.3s ease; 
+  }
+  
+  .btn:hover {
+    background-color: #c82333;
+    border-color: #bd2130; 
+  }
+  
+  .welcome-message {
+    color: #343a40; 
+    font-size: 20 px; 
+    margin-bottom: 0; 
+  }
+  
